@@ -1,2 +1,2 @@
 # repo_testeo
-Repo para tester frontend.
+Repo para testaer frontend.
